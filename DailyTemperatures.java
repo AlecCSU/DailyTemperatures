@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class DailyTemperatures {
 
     public static void main(String[] args) {
-        // Initialize ArrayLists for days and temperatures
+        // Initialize ArrayLists for daysOfWeek and temperatures
         ArrayList<String> daysOfWeek = new ArrayList<>();
         ArrayList<Double> temperatures = new ArrayList<>();
 
